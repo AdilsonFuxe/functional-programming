@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "adilsonfuxe <adilsonfuxe.fuxe@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
 }
